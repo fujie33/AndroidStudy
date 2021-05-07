@@ -1,0 +1,4 @@
+include ':app'
+include ':framework'
+include ':simple'
+rootProject.name = "Test4"
